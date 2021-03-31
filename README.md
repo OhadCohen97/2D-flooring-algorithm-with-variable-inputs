@@ -5,3 +5,13 @@ The algorithm flooring an area of 2D dimension matrix with variable inputs. For 
 
 <h3>Running Example</h3>
 <img src="Images/Output.jpeg" width="1000px">
+
+
+
+<h3>create_input_to_ritzuf.py </h3>
+
+
+<h3>ritzuf_room.py</h3>
+
+<h3>Visualize.py</h3>
+To display and illustrate the rectangles we have arranged inside a plot in varying colors.
