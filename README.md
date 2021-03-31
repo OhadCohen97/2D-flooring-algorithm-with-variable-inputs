@@ -8,8 +8,8 @@ The algorithm flooring an area of 2D dimension matrix with variable inputs. For 
 
 
 
-<h3>create_input_to_ritzuf.py </h3>
-Produces randomly rectangles according to the defined values.
+<h3>create_input_to_ritzuf.py</h3>
+<p>Produces randomly rectangles according to the defined values.</p>
 
 <h3>ritzuf_room.py</h3>
 The main algorithm whose function is to adjust the size of the rectangle and place it in the defined area.
