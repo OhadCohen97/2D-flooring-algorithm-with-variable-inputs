@@ -4,4 +4,4 @@ The algorithm flooring an area of 2D dimension matrix with variable inputs. For 
 
 
 <h3>Running Example</h3>
-<img src="Images/Output.Jepg" width="1000px">
+<img src="Images/Output.jepg" width="1000px">
